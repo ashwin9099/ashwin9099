@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+folks!!+🤗;I+am+Ashwin!+🚀&font=Fira%20Code&center=true&width=380&height=60&duration=4500&pause=2500" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+folks!!+🤗;I+am+Ashwin!+🚀&font=Fira%20Code&center=true&width=380&height=40&duration=4500&pause=2500" alt="Example Usage - README Typing SVG">
 </p>
 <h3 align="center">A passionate full-stack developer with niche skills in AWS, Docker and Kubernetes.</h3>
 
