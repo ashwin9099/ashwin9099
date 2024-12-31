@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ashwin Kulkarni</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Ashwin!+🚀&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+</p>
 <h3 align="center">A passionate full-stack developer with niche skills of AWS, Docker and Kubernetes.</h3>
 
 - 🔭 I’m currently working on building a **Metaverse Game**
 
-- 🌱 I’m currently exploring **Spring boot, React+Vite, Next.js, Cloud, docker and kubernetes.**
+- 🌱 Ask me about **Spring boot, React+Vite, Next.js, Cloud, docker and Kubernetes.**
 
 - 📫 How to reach me **ankulkarni731@gmail.com**
 
