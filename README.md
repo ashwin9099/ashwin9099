@@ -5,7 +5,7 @@
 
 <img align="right" alt ="coding" width ="300" height="250" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpoNzZpNjZzN240YWR5czlzY3V2MWMxMm5rNjRocmhyOTRyOHZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
-- 🔭 I’m currently working on building a **Metaverse Game** in the MERN stack using WebSockets.
+- 🔭 I’m currently working on building a **3D Metaverse Game** in the MERN stack using WebSockets.
 
 - 🌱 Ask me about **Spring boot, React+Vite, Next.js, Node.js, Cloud, docker and Kubernetes.**
 
