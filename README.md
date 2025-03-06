@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+folks!!+🤗;I+am+Ashwin!+🚀&font=Fira%20Code&center=true&width=380&height=40&duration=4500&pause=2500" alt="Example Usage - README Typing SVG">
 </p>
-<h3 align="center">A passionate full-stack developer with niche skills in AWS, Docker and Kubernetes.</h3>
+<h3 align="center">A passionate Software Engineer with niche skills in Java, Python, AWS, Docker and Kubernetes.</h3>
 
 <img align="right" alt ="coding" width ="300" height="250" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpoNzZpNjZzN240YWR5czlzY3V2MWMxMm5rNjRocmhyOTRyOHZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
