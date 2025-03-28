@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on building a **3D Metaverse Game** in the MERN stack using WebSockets and PRISMA(ORM).
 
-- 🌱 Ask me about **Flutter, Spring boot, React+Vite, Next.js, Cloud, docker and Kubernetes.**
+- 🌱 Ask me about **Flutter, Spring boot, Cloud, Jenkins, Kafka, docker and Kubernetes.**
 
 - 📫 How to reach me **ankulkarni731@gmail.com** / **+91-7709034922**
 
